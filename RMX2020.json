@@ -1,0 +1,29 @@
+{
+        "response": [
+                {
+                        "maintainer": "Koushik Dey",
+                        "oem": "realme",
+                        "device": "RMX2020",
+                        "filename": "crDroidAndroid-14.0-20240926-RMX2020-v10.8.zip",
+                        "download": "https://sourceforge.net/projects/kousick-android-project/files/ROMs/RMX2020/crDroid/26-Sept-2024/crDroidAndroid-14.0-20240926-RMX2020-v10.8.zip/download",
+                        "timestamp": 1727351792,
+                        "md5": "167c8f9215c63c109c698d6c5424f109",
+                        "sha256": "61e826b5cebdd10c33aa5e8fbc09e227eb88bb3d1bc0158eab10a9086a391461",
+                        "size": 1315263974,
+                        "version": "10.8",
+                        "buildtype": "Monthly",
+                        "forum": "",
+                        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-14/13-Aug-2024/NikGapps-core-arm64-14-20240813-signed.zip/download",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/koushikdey3",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+}
+
