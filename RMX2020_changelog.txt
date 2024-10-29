@@ -4,5 +4,13 @@ Device: realme C3/Narzo 10A (RMX2020)
 Device maintainer: Koushik Dey
 Required firmware: RealmeUI 2.0 C.06+
 
+===== 28.10.2024 =====
+- Source upstreamed
+- Setup SKU for realme C3 India
+- Dropped system_ext audio@6.1/bt.audio@2.1 libs
+- Dropped OPLUS Face Beauty configs
+- Dropped OPLUS displayfeature libs
+- Dropped unneeded vendor cacerts
+
 ===== 27.09.2024 =====
 - Fixed Bluetooth disconnection issue
