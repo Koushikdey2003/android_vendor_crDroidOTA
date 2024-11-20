@@ -4,6 +4,11 @@ Device: realme C3/Narzo 10A (RMX2020)
 Device maintainer: Koushik Dey
 Required firmware: RealmeUI 2.0 C.06+
 
+===== 20.11.2024 =====
+- Synced with latest Source
+- Based on November security patch
+- Misc. changes
+
 ===== 28.10.2024 =====
 - Source upstreamed
 - Setup SKU for realme C3 India
